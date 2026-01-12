@@ -37,7 +37,6 @@ Users can securely log in, post flash news, preview upcoming events, filter news
 
 ## Project Structure
 
-
 FLASHNEWS/
 |-- login.php
 |-- dashboard.php
@@ -48,12 +47,9 @@ FLASHNEWS/
 |-- logout.php
 |
 |-- images/
-|   |-- logo-left.png
-|   |-- logo-right.jpg
-|
-`-- database/
-    `-- flashnews_db.sql
-
+| |-- logo-left.png
+| -- logo-right.jpg | -- database/
+`-- flashnews_db.sql
 
 ---
 
