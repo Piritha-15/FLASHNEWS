@@ -39,21 +39,21 @@ Users can securely log in, post flash news, preview upcoming events, filter news
 
 
 FLASHNEWS/
-│
-├── login.php
-├── dashboard.php
-├── submit_flashnews.php
-├── preview_flashnews.php
-├── edit_flashnews.php
-├── get_news_by_date.php
-├── logout.php
-│
-├── images/
-│ ├── logo-left.png
-│ └── logo-right.jpg
-│
-└── database/
-└── flashnews_db.sql
+|-- login.php
+|-- dashboard.php
+|-- submit_flashnews.php
+|-- preview_flashnews.php
+|-- edit_flashnews.php
+|-- get_news_by_date.php
+|-- logout.php
+|
+|-- images/
+|   |-- logo-left.png
+|   |-- logo-right.jpg
+|
+`-- database/
+    `-- flashnews_db.sql
+
 
 ---
 
